@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Kotlin,React,Java,Spring Boot**
 
-- 👯 I’m looking to collaborate on [Journal App](https://github.com/HardikGupta8080/Journal_App.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/HardikGupta8080](https://github.com/HardikGupta8080)
 
 - 💬 Ask me about **react and Spring Boot**
