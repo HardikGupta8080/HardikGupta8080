@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hardikgupta8080@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k3NNeVqtjsGr7tElEb0oy5nSxBnBcAkd/view?usp=drive_link](https://drive.google.com/file/d/1k3NNeVqtjsGr7tElEb0oy5nSxBnBcAkd/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1k3NNeVqtjsGr7tElEb0oy5nSxBnBcAkd/view?usp=drive_link]([https://drive.google.com/file/d/1k3NNeVqtjsGr7tElEb0oy5nSxBnBcAkd/view?usp=drive_link](https://drive.google.com/file/d/1CBAFk5M8ilJ8CWQkkUcUo1rGldZKEZ56/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
