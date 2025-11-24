@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hardikgupta8080@gmail.com**
 
-- 📄 Know about my experiences .[resume link](https://drive.google.com/file/d/1CBAFk5M8ilJ8CWQkkUcUo1rGldZKEZ56/view?usp=sharing)
+- 📄 Know about my experiences .[resume link]([https://drive.google.com/file/d/1CBAFk5M8ilJ8CWQkkUcUo1rGldZKEZ56/view?usp=sharing](https://drive.google.com/file/d/1XRwAFY3O2GTM7I-grammUjQ2gSCXVJKu/view?usp=sharing))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hardikgupta8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardikgupta8080" height="30" width="40" /></a>
